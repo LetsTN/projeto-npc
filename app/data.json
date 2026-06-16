@@ -2,31 +2,31 @@
   "Dia 1": [
     {
       "nome": "Jesus",
-      "descrição": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum rutrum ligula sapien, a sagittis massa pellentesque vitae. Sed malesuada massa in purus faucibus, nec suscipit neque hendrerit. Cras at convallis augue, at laoreet lorem. Nunc cursus metus pulvinar pellentesque cursus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent volutpat porttitor lacinia. Sed vel aliquam enim. Vivamus ornare iaculis libero, sit amet aliquam est consectetur eu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur dignissim orci eu nibh hendrerit, id dignissim diam lobortis. Integer vitae odio quis lectus maximus fermentum. Quisque nec nulla eget sapien porta vestibulum a non libero. Pellentesque non nibh sit amet est interdum vestibulum.",
+      "descrição": "O mestre dos mestres, que viveu entre os homens pregando o amor, a compaixão e o perdão. Sua vida e ensinamentos continuam transformando corações ao redor do mundo. Quer saber mais? Converse com ele no congresso e descubra!",
       "imagem": "public\\Jesus.png",
       "imagem_escondida": "public\\JesusEscondido.png"
     },
     {
       "nome": "Maria",
-      "descrição": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum rutrum ligula sapien, a sagittis massa pellentesque vitae. Sed malesuada massa in purus faucibus, nec suscipit neque hendrerit. Cras at convallis augue, at laoreet lorem. Nunc cursus metus pulvinar pellentesque cursus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent volutpat porttitor lacinia. Sed vel aliquam enim. Vivamus ornare iaculis libero, sit amet aliquam est consectetur eu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur dignissim orci eu nibh hendrerit, id dignissim diam lobortis. Integer vitae odio quis lectus maximus fermentum. Quisque nec nulla eget sapien porta vestibulum a non libero. Pellentesque non nibh sit amet est interdum vestibulum.",
+      "descrição": "Mãe amorosa e figura de fé inabalável, acompanhou de perto a missão do filho Jesus e tornou-se símbolo eterno de dedicação e amor incondicional. Quer saber mais? Converse com ela no congresso e descubra!",
       "imagem": "public\\Maria.png",
       "imagem_escondida": "public\\MariaEscondido.png"
     },
     {
       "nome": "Paulo de Tarso",
-      "descrição": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum rutrum ligula sapien, a sagittis massa pellentesque vitae. Sed malesuada massa in purus faucibus, nec suscipit neque hendrerit. Cras at convallis augue, at laoreet lorem. Nunc cursus metus pulvinar pellentesque cursus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent volutpat porttitor lacinia. Sed vel aliquam enim. Vivamus ornare iaculis libero, sit amet aliquam est consectetur eu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur dignissim orci eu nibh hendrerit, id dignissim diam lobortis. Integer vitae odio quis lectus maximus fermentum. Quisque nec nulla eget sapien porta vestibulum a non libero. Pellentesque non nibh sit amet est interdum vestibulum.",
+      "descrição": "De perseguidor dos cristãos a um dos mais ardentes apóstolos do Evangelho, Paulo percorreu o mundo antigo difundindo a mensagem de amor de Jesus. Quer saber mais? Converse com ele no congresso e descubra!",
       "imagem": "public\\Paulo.png",
       "imagem_escondida": "public\\PauloEscondido.png"
     },
     {
       "nome": "Moises",
-      "descrição": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum rutrum ligula sapien, a sagittis massa pellentesque vitae. Sed malesuada massa in purus faucibus, nec suscipit neque hendrerit. Cras at convallis augue, at laoreet lorem. Nunc cursus metus pulvinar pellentesque cursus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent volutpat porttitor lacinia. Sed vel aliquam enim. Vivamus ornare iaculis libero, sit amet aliquam est consectetur eu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur dignissim orci eu nibh hendrerit, id dignissim diam lobortis. Integer vitae odio quis lectus maximus fermentum. Quisque nec nulla eget sapien porta vestibulum a non libero. Pellentesque non nibh sit amet est interdum vestibulum.",
+      "descrição": "Escolhido por Deus para libertar o povo hebreu do Egito, recebeu os Dez Mandamentos e conduziu seu povo por décadas em busca da Terra Prometida. Quer saber mais? Converse com ele no congresso e descubra!",
       "imagem": "public\\Moises.png",
       "imagem_escondida": "public\\MoisesEscondido.png"
     },
     {
       "nome": "Maria Madalena",
-      "descrição": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum rutrum ligula sapien, a sagittis massa pellentesque vitae. Sed malesuada massa in purus faucibus, nec suscipit neque hendrerit. Cras at convallis augue, at laoreet lorem. Nunc cursus metus pulvinar pellentesque cursus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent volutpat porttitor lacinia. Sed vel aliquam enim. Vivamus ornare iaculis libero, sit amet aliquam est consectetur eu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur dignissim orci eu nibh hendrerit, id dignissim diam lobortis. Integer vitae odio quis lectus maximus fermentum. Quisque nec nulla eget sapien porta vestibulum a non libero. Pellentesque non nibh sit amet est interdum vestibulum.",
+      "descrição": "Discípula fiel de Jesus, foi a primeira a testemunhar a ressurreição e uma das vozes mais importantes nos primórdios do Cristianismo. Quer saber mais? Converse com ela no congresso e descubra!",
       "imagem": "public\\Madalena.png",
       "imagem_escondida": "public\\MadalenaEscondido.png"
     }
@@ -34,25 +34,25 @@
   "Dia 2": [
     {
       "nome": "Irmãs Fox",
-      "descrição": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum rutrum ligula sapien, a sagittis massa pellentesque vitae. Sed malesuada massa in purus faucibus, nec suscipit neque hendrerit. Cras at convallis augue, at laoreet lorem. Nunc cursus metus pulvinar pellentesque cursus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent volutpat porttitor lacinia. Sed vel aliquam enim. Vivamus ornare iaculis libero, sit amet aliquam est consectetur eu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur dignissim orci eu nibh hendrerit, id dignissim diam lobortis. Integer vitae odio quis lectus maximus fermentum. Quisque nec nulla eget sapien porta vestibulum a non libero. Pellentesque non nibh sit amet est interdum vestibulum.",
+      "descrição": "Kate e Margarett Fox estiveram no centro dos primeiros fenômenos mediúnicos modernos, no século XIX, despertando o mundo para a possibilidade da comunicação com os espíritos. Quer saber mais? Converse com elas no congresso e descubra!",
       "imagem": "public\\Fox.png",
       "imagem_escondida": "public\\FoxEscondido.png"
     },
     {
       "nome": "Allan Kardec",
-      "descrição": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum rutrum ligula sapien, a sagittis massa pellentesque vitae. Sed malesuada massa in purus faucibus, nec suscipit neque hendrerit. Cras at convallis augue, at laoreet lorem. Nunc cursus metus pulvinar pellentesque cursus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent volutpat porttitor lacinia. Sed vel aliquam enim. Vivamus ornare iaculis libero, sit amet aliquam est consectetur eu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur dignissim orci eu nibh hendrerit, id dignissim diam lobortis. Integer vitae odio quis lectus maximus fermentum. Quisque nec nulla eget sapien porta vestibulum a non libero. Pellentesque non nibh sit amet est interdum vestibulum.",
+      "descrição": "Educador e pesquisador francês, codificou o Espiritismo no século XIX, sistematizando os ensinamentos dos espíritos em obras que guiam milhões de pessoas até hoje. Quer saber mais? Converse com ele no congresso e descubra!",
       "imagem": "public\\Kardec.png",
       "imagem_escondida": "public\\KardecEscondido.png"
     },
     {
       "nome": "Léon Denis",
-      "descrição": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum rutrum ligula sapien, a sagittis massa pellentesque vitae. Sed malesuada massa in purus faucibus, nec suscipit neque hendrerit. Cras at convallis augue, at laoreet lorem. Nunc cursus metus pulvinar pellentesque cursus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent volutpat porttitor lacinia. Sed vel aliquam enim. Vivamus ornare iaculis libero, sit amet aliquam est consectetur eu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur dignissim orci eu nibh hendrerit, id dignissim diam lobortis. Integer vitae odio quis lectus maximus fermentum. Quisque nec nulla eget sapien porta vestibulum a non libero. Pellentesque non nibh sit amet est interdum vestibulum.",
+      "descrição": "Um dos maiores defensores e continuadores da obra de Allan Kardec, dedicou toda a sua vida a aprofundar e difundir o Espiritismo pelo mundo. Quer saber mais? Converse com ele no congresso e descubra!",
       "imagem": "public\\Leon.png",
       "imagem_escondida": "public\\LeonEscondido.png"
     },
     {
       "nome": "Amélie-Gabrielle Boudet",
-      "descrição": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum rutrum ligula sapien, a sagittis massa pellentesque vitae. Sed malesuada massa in purus faucibus, nec suscipit neque hendrerit. Cras at convallis augue, at laoreet lorem. Nunc cursus metus pulvinar pellentesque cursus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent volutpat porttitor lacinia. Sed vel aliquam enim. Vivamus ornare iaculis libero, sit amet aliquam est consectetur eu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur dignissim orci eu nibh hendrerit, id dignissim diam lobortis. Integer vitae odio quis lectus maximus fermentum. Quisque nec nulla eget sapien porta vestibulum a non libero. Pellentesque non nibh sit amet est interdum vestibulum.",
+      "descrição": "Companheira e colaboradora de Allan Kardec, trabalhou ao lado do marido na missão espírita e, após sua morte, continuou a zelar pela preservação e divulgação da Doutrina. Quer saber mais? Converse com ela no congresso e descubra!",
       "imagem": "public\\Amelie.png",
       "imagem_escondida": "public\\AmelieEscondido.png"
     }
@@ -60,25 +60,25 @@
   "Dia 3": [
     {
       "nome": "Chico Xavier",
-      "descrição": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum rutrum ligula sapien, a sagittis massa pellentesque vitae. Sed malesuada massa in purus faucibus, nec suscipit neque hendrerit. Cras at convallis augue, at laoreet lorem. Nunc cursus metus pulvinar pellentesque cursus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent volutpat porttitor lacinia. Sed vel aliquam enim. Vivamus ornare iaculis libero, sit amet aliquam est consectetur eu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur dignissim orci eu nibh hendrerit, id dignissim diam lobortis. Integer vitae odio quis lectus maximus fermentum. Quisque nec nulla eget sapien porta vestibulum a non libero. Pellentesque non nibh sit amet est interdum vestibulum.",
+      "descrição": "O maior médium brasileiro, psicografou mais de 400 livros e dedicou sua vida inteira ao amor, à caridade e ao serviço ao próximo, tornando-se símbolo mundial de bondade e fé. Quer saber mais? Converse com ele no congresso e descubra!",
       "imagem": "public\\Chico.png",
       "imagem_escondida": "public\\ChicoEscondido.png"
     },
     {
       "nome": "Joanna de Angelis",
-      "descrição": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum rutrum ligula sapien, a sagittis massa pellentesque vitae. Sed malesuada massa in purus faucibus, nec suscipit neque hendrerit. Cras at convallis augue, at laoreet lorem. Nunc cursus metus pulvinar pellentesque cursus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent volutpat porttitor lacinia. Sed vel aliquam enim. Vivamus ornare iaculis libero, sit amet aliquam est consectetur eu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur dignissim orci eu nibh hendrerit, id dignissim diam lobortis. Integer vitae odio quis lectus maximus fermentum. Quisque nec nulla eget sapien porta vestibulum a non libero. Pellentesque non nibh sit amet est interdum vestibulum.",
+      "descrição": "Espírito elevado que, através do médium Divaldo Franco, ditou dezenas de obras sobre saúde, psicologia e espiritualidade, iluminando caminhos de cura e autoconhecimento. Quer saber mais? Converse com ela no congresso e descubra!",
       "imagem": "public\\Joanna.png",
       "imagem_escondida": "public\\JoannaEscondido.png"
     },
     {
       "nome": "André Luiz",
-      "descrição": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum rutrum ligula sapien, a sagittis massa pellentesque vitae. Sed malesuada massa in purus faucibus, nec suscipit neque hendrerit. Cras at convallis augue, at laoreet lorem. Nunc cursus metus pulvinar pellentesque cursus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent volutpat porttitor lacinia. Sed vel aliquam enim. Vivamus ornare iaculis libero, sit amet aliquam est consectetur eu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur dignissim orci eu nibh hendrerit, id dignissim diam lobortis. Integer vitae odio quis lectus maximus fermentum. Quisque nec nulla eget sapien porta vestibulum a non libero. Pellentesque non nibh sit amet est interdum vestibulum.",
+      "descrição": "Espírito que, por meio da mediunidade de Chico Xavier, relatou em detalhes a vida nas esferas espirituais, oferecendo uma visão profunda da existência além da morte. Quer saber mais? Converse com ele no congresso e descubra!",
       "imagem": "public\\Andre.png",
       "imagem_escondida": "public\\AndreEscondido.png"
     },
     {
       "nome": "Yvonne do Amaral Pereira",
-      "descrição": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum rutrum ligula sapien, a sagittis massa pellentesque vitae. Sed malesuada massa in purus faucibus, nec suscipit neque hendrerit. Cras at convallis augue, at laoreet lorem. Nunc cursus metus pulvinar pellentesque cursus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent volutpat porttitor lacinia. Sed vel aliquam enim. Vivamus ornare iaculis libero, sit amet aliquam est consectetur eu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur dignissim orci eu nibh hendrerit, id dignissim diam lobortis. Integer vitae odio quis lectus maximus fermentum. Quisque nec nulla eget sapien porta vestibulum a non libero. Pellentesque non nibh sit amet est interdum vestibulum.",
+      "descrição": "Escritora, médium e educadora brasileira, autora de obras espíritas fundamentais como Memórias de um Suicida, dedicou sua vida à pesquisa e ao ensino da Doutrina Espírita. Quer saber mais? Converse com ela no congresso e descubra!",
       "imagem": "public\\Yvonne.png",
       "imagem_escondida": "public\\YvonneEscondido.png"
     }
