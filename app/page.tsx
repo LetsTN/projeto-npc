@@ -12,6 +12,8 @@ type Character = {
   imagem_escondida: string;
 };
 
+const ICON_COLORS = ["#ffe708", "#b414f7", "#35cfff", "#61fd7d", "#ff3131"];
+
 function getImageSrc(path: string): string {
   return "/" + path.replace(/^public[\\/]/, "");
 }
@@ -84,6 +86,11 @@ export default function Home() {
           <div style={{ display: "grid", gridTemplateColumns: "1fr", gap: 10 }}>
             {chars.map((char, charIdx) => {
               const isUnlocked = unlocked.includes(char.nome);
+              const offset = days
+                .slice(0, diaIdx)
+                .reduce((sum, [, c]) => sum + c.length, 0);
+              const iconColor =
+                ICON_COLORS[(offset + charIdx) % ICON_COLORS.length];
               return (
                 <button
                   key={char.nome}
@@ -140,12 +147,25 @@ export default function Home() {
                     {isUnlocked ? (
                       char.nome
                     ) : (
-                      <Image
-                        src={`/${charIdx + 1}.svg`}
-                        alt="Personagem desconhecido"
-                        width={28}
-                        height={28}
-                      />
+                      <div
+                        style={{
+                          background: iconColor,
+                          borderRadius: "50%",
+                          width: 96,
+                          height: 96,
+                          display: "flex",
+                          alignItems: "center",
+                          justifyContent: "center",
+                          margin: "0 auto",
+                        }}
+                      >
+                        <Image
+                          src={`/${charIdx + 1}.svg`}
+                          alt="Personagem desconhecido"
+                          width={96}
+                          height={96}
+                        />
+                      </div>
                     )}
                   </div>
                 </button>
