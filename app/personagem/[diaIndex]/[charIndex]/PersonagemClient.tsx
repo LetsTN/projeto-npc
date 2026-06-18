@@ -208,11 +208,11 @@ export default function PersonagemClient({
               fontSize: 15,
             }}
           >
-            Você sabe quem é este personagem?
+            Você sabe quem é esta pessoa?
           </p>
 
           <input
-            aria-label="Nome do personagem"
+            aria-label="Nome da pessoa"
             value={input}
             onChange={(e) => {
               setInput(e.target.value);
