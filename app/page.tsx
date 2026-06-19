@@ -44,16 +44,14 @@ export default function Home() {
 
   return (
     <div style={{ maxWidth: 480, margin: "0 auto", padding: "0 0 40px" }}>
-      <div style={{ position: "relative", width: "100%", aspectRatio: "16/9" }}>
-        <Image
-          src="/topo.png"
-          alt="Topo"
-          fill
-          sizes="(max-width: 480px) 100vw, 480px"
-          style={{ objectFit: "cover" }}
-          priority
-        />
-      </div>
+      <Image
+        src="/topo.png"
+        alt="Topo"
+        width={480}
+        height={270}
+        style={{ width: "100%", height: "auto", display: "block" }}
+        priority
+      />
 
       <p
         style={{
